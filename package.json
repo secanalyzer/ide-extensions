@@ -1,0 +1,33 @@
+{
+  "name": "ide-extensions",
+  "version": "0.1.0",
+  "description": "List installed VS Code extensions and JetBrains plugins with marketplace metadata.",
+  "type": "module",
+  "bin": {
+    "ide-extensions": "dist/ide-extensions.mjs"
+  },
+  "files": [
+    "dist/",
+    "README.md"
+  ],
+  "scripts": {
+    "start": "tsx src/cli.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "bun scripts/build.ts",
+    "clean": "rm -rf dist",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "cli-table3": "^0.6.5",
+    "yauzl": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/yauzl": "^2.10.3",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
