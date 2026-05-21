@@ -1,0 +1,7 @@
+<idea-plugin>
+  <id>com.example.plugin-bbb</id>
+  <name>Plugin BBB</name>
+  <version>2.5.1</version>
+  <vendor email="bbb@example.com" url="https://example.com/bbb">Example BBB Vendor</vendor>
+  <description>Test plugin BBB</description>
+</idea-plugin>

@@ -1,0 +1,8 @@
+{
+  "name": "remote-c",
+  "displayName": "Remote-Only Extension C",
+  "publisher": "pubthree",
+  "version": "3.0.0",
+  "description": "Only present in vscode-server",
+  "__metadata": { "publisherDisplayName": "PubThree LLC" }
+}

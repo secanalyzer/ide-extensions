@@ -1,0 +1,7 @@
+<idea-plugin>
+  <id>com.example.plugin-aaa</id>
+  <name>Plugin AAA</name>
+  <version>1.0.0</version>
+  <vendor email="aaa@example.com" url="https://example.com/aaa">Example AAA Vendor</vendor>
+  <description><![CDATA[Test plugin AAA — older copy here.]]></description>
+</idea-plugin>

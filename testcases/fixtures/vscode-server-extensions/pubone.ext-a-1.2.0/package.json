@@ -1,0 +1,8 @@
+{
+  "name": "ext-a",
+  "displayName": "Extension A (server-installed, newer)",
+  "publisher": "pubone",
+  "version": "1.2.0",
+  "description": "Test extension A from vscode-server (should win dedupe)",
+  "__metadata": { "publisherDisplayName": "PubOne, Inc." }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ext-a",
+  "displayName": "Extension A",
+  "publisher": "pubone",
+  "version": "1.1.0",
+  "description": "Test extension A",
+  "repository": { "type": "git", "url": "https://github.com/pubone/ext-a.git" },
+  "homepage": "https://example.com/ext-a",
+  "__metadata": { "publisherDisplayName": "PubOne, Inc." }
+}

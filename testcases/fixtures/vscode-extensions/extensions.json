@@ -1,0 +1,20 @@
+[
+  {
+    "identifier": { "id": "pubone.ext-a" },
+    "version": "1.0.0",
+    "relativeLocation": "pubone.ext-a-1.0.0",
+    "metadata": { "publisherDisplayName": "PubOne, Inc." }
+  },
+  {
+    "identifier": { "id": "pubone.ext-a" },
+    "version": "1.1.0",
+    "relativeLocation": "pubone.ext-a-1.1.0",
+    "metadata": { "publisherDisplayName": "PubOne, Inc." }
+  },
+  {
+    "identifier": { "id": "pubtwo.ext-b" },
+    "version": "2.0.0",
+    "relativeLocation": "pubtwo.ext-b-2.0.0",
+    "metadata": { "publisherDisplayName": "PubTwo Org" }
+  }
+]

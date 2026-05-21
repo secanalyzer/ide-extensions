@@ -1,0 +1,9 @@
+{
+  "name": "ext-b",
+  "displayName": "Extension B",
+  "publisher": "pubtwo",
+  "version": "2.0.0",
+  "description": "Test extension B",
+  "repository": "https://github.com/pubtwo/ext-b",
+  "__metadata": { "publisherDisplayName": "PubTwo Org" }
+}
